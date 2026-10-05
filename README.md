@@ -18,6 +18,10 @@ The Cloudflare Agents SDK enables developers to build powerful, distributed AI a
 - **[Slack Agent](./agents/slack)** - An AI agent for Slack integration and automation
 - **[Cloudflare Discord Agent](./agents/cloudflare-docs-discord-bot)** - A Discord agent that answers questions about Cloudflare using RAG with [Cloudflare Docs MCP](https://github.com/cloudflare/mcp-server-cloudflare/tree/main/apps/docs-vectorize).
 
+### Payments & Commerce
+
+- [Steward](https://brianbooms.com/agents/) - x402 micropayment rail for AI agents running on Cloudflare Workers: pay per API call in USDC on Base, no API keys.
+
 ## Getting Started
 
 To explore or run any of these projects:
